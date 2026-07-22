@@ -159,21 +159,25 @@ Classificação........Desconto Médio
 
 # 🚀 Como executar
 
-```bash
-git clone https://github.com/SEU_USUARIO/SalarioLiquido.git
-```
+Clone o repositório:
 
 ```bash
-cd SalarioLiquido
+git clone https://github.com/SEU_USUARIO/java-salario-liquido.git
 ```
 
-Compile:
+Entre na pasta do projeto:
+
+```bash
+cd java-salario-liquido
+```
+
+Compile o código:
 
 ```bash
 javac SalarioLiquido.java
 ```
 
-Execute:
+Execute a aplicação:
 
 ```bash
 java SalarioLiquido
