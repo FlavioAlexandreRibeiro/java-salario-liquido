@@ -159,29 +159,21 @@ Classificação........Desconto Médio
 
 # 🚀 Como executar
 
-Clone o repositório:
+1. Clone o repositório:
 
 ```bash
 git clone https://github.com/SEU_USUARIO/java-salario-liquido.git
 ```
 
-Entre na pasta do projeto:
+2. Entre na pasta do projeto:
 
 ```bash
 cd java-salario-liquido
 ```
 
-Compile o código:
+3. Abra o projeto no IntelliJ IDEA.
 
-```bash
-javac SalarioLiquido.java
-```
-
-Execute a aplicação:
-
-```bash
-java SalarioLiquido
-```
+4. Execute a classe `SalarioLiquido.java`.
 
 ---
 
